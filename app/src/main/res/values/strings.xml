@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YaTracker</string>
+    <string name="loc_permission_request">Приложению необходимо отслеживать местоположение устройства. Разрешить доступ к геолокации? В случае отказа, продолжение работы приложения будет невозможным…</string>
+</resources>
